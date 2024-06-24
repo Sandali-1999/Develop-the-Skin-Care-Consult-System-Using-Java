@@ -1,1 +1,1 @@
-# Develop-the-Skin-Care-Consult-System-Using-Java
+# Develop the Skin Care Consult System Using Java (Group)
